@@ -16,7 +16,7 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Lex-Inc/roughdraft/main/README.md",
-    "sha": "23e384a0565f8a735217bef9c9ed09a4a598a0cba753ff856cce23903d6863be",
+    "sha": "d663d815986d05f5c129d52c3a0edffbd87ced60d3063e364d3e4682696b9e33",
     "took": "Inline-annotations-in-the-source-file pattern. Roughdraft uses CriticMarkup syntax embedded in markdown so the file itself carries comments, suggested edits, and metadata — the file is the canonical store, the viewer is just a renderer. We adapted this for HTML using semantic elements: <mark> for highlights, <aside data-comment-target> for paired comments, <article data-from> for chat turns. The HTML file IS the design + chat + decisions + annotations, with the server as a sync layer."
   }
 ]
